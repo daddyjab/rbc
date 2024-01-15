@@ -1,0 +1,11 @@
+pyaudio
+pydub
+scipy
+sounddevice
+soundfile
+numpy
+pandas
+pyyaml
+matplotlib
+seaborn
+jupyterlab
